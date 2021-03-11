@@ -62,3 +62,4 @@ class Test_05_Payment:
         # else:
         # self.driver.save_screenshot(".\\Screenshots\\" + "test_3D_secure.png")
         # print("Payment failed")
+        self.driver.close()
