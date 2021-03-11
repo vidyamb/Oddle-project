@@ -6,7 +6,7 @@ class Pasha_page:
     CardName_TF_xpath = "//div[@class='FormFieldGroup-Fieldset']//span/input[@id='billingName']"
     Country_xpath = "//select[@id='billingCountry']"
     Button_Pay = "//div[@class='SubmitButton-IconContainer']"
-    Check_message = "//div[@class='sr-payment-summary completed-view']/h1"
+    Check_message = "//div[@class='sr-main']//h1"
     email_error_xpath = "(//div//span[@role='alert'])[1]"
     card_error_xpath = "(//div//span[@role='alert'])[2]"
     exprirydate_error_xpath = "(// div[@ id='cardNumber-fieldset'] // span)[15]"

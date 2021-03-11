@@ -7,3 +7,6 @@ class Donate:
     def ClickOnDonateButton(self):
         self.driver.find_element_by_xpath(self.button_text).click()
 
+
+
+
