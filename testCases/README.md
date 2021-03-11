@@ -11,9 +11,11 @@ To run all test together : Open terminal by right click on the testCase folder -
 
 To run test with html Report generation : Open terminal by right click on the testCase folder -> type : py.test --html=report.html -s
 
-Test Result:
+Test Result: http://localhost:63342/Oddle/testCases/report.html?_ijt=t6bbth7k5dukl5blt4781s3dqr
 
-http://localhost:63342/Oddle/testCases/report.html?_ijt=9kn9rdi831oaghpbcs3cmhamh2
+
+
+
 
 
 
